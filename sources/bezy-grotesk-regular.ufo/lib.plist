@@ -4,15 +4,8 @@
   <dict>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>Imagine two people in an economy, Alice and Bob. They both work about 40 hours per week. Alice creates 10 units of value, but captures 9, almost all the value created. Bob creates 100 units of value, but only captures 10. 
-
-CPU H</string>
-      <string>Blockchain </string>
-      <string>Diffuse Value Capture </string>
-      <string>Eli’s Blog</string>
-      <string>M</string>
-      <string>—</string>
-      <string>a</string>
+      <string> 12345HOno Published May 15th, 2025</string>
+      <string>&amp;</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3343</string>
@@ -623,6 +616,7 @@ CPU H</string>
       <string>quoteright</string>
       <string>quotedbl</string>
       <string>quotesingle</string>
+      <string>ampersand</string>
       <string>minus</string>
       <string>acutecomb</string>
       <string>acute</string>
