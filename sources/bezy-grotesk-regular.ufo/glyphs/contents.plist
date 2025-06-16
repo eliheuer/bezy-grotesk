@@ -198,6 +198,8 @@
     <string>dammatan-ar.glif</string>
     <key>decimalseparator-ar</key>
     <string>decimalseparator-ar.glif</string>
+    <key>dollar</key>
+    <string>dollar.glif</string>
     <key>dotabove-ar</key>
     <string>dotabove-ar.glif</string>
     <key>dotbelow-ar</key>
@@ -420,10 +422,16 @@
     <string>one-ar.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>parenleft</key>
+    <string>parenleft.glif</string>
     <key>parenleft-ar</key>
     <string>parenleft-ar.glif</string>
+    <key>parenright</key>
+    <string>parenright.glif</string>
     <key>parenright-ar</key>
     <string>parenright-ar.glif</string>
+    <key>percent</key>
+    <string>percent.glif</string>
     <key>percent-ar</key>
     <string>percent-ar.glif</string>
     <key>period</key>

@@ -4,8 +4,7 @@
   <dict>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string> 12345HOno Published May 15th, 2025</string>
-      <string>&amp;</string>
+      <string> أشهد يا إلهي /behDotless-ar.init ب/alef-ar.fina نك خلقتني لعرفانك وعبادتك</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3343</string>
@@ -643,6 +642,10 @@
       <string>F001</string>
       <string>F002</string>
       <string>F003</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>dollar</string>
+      <string>percent</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

@@ -3,12 +3,12 @@
   <advance width="688"/>
   <outline>
     <component base="fehDotless-ar.medi"/>
-    <component base="twodotshorizontalabove-ar" xOffset="196" yOffset="-128"/>
+    <component base="twodotshorizontalabove-ar" xOffset="196" yOffset="-80"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-02-22 08:10:55 +0000</string>
+      <string>2025-06-15 23:42:12 +0000</string>
     </dict>
   </lib>
 </glyph>
