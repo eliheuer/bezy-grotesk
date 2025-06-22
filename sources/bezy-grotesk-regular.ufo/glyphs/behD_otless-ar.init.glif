@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="behDotless-ar.init" format="2">
-  <advance width="256"/>
+  <advance width="288"/>
   <anchor x="144" y="432" name="top"/>
   <anchor x="0" y="16" name="bottom"/>
   <anchor x="144" y="472" name="topDots"/>
@@ -26,7 +26,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-15 22:51:33 +0000</string>
+      <string>2025-06-22 06:38:52 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="teh-ar.init" format="2">
-  <advance width="256"/>
+  <advance width="288"/>
   <outline>
     <component base="behDotless-ar.init"/>
     <component base="twodotshorizontalabove-ar" xOffset="-8" yOffset="-104"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-15 23:38:00 +0000</string>
+      <string>2025-06-22 06:38:52 +0000</string>
     </dict>
   </lib>
 </glyph>
