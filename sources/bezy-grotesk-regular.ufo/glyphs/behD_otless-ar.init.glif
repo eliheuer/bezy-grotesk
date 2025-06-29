@@ -3,30 +3,30 @@
   <advance width="288"/>
   <anchor x="144" y="432" name="top"/>
   <anchor x="0" y="16" name="bottom"/>
-  <anchor x="144" y="472" name="topDots"/>
+  <anchor x="144" y="448" name="topDots"/>
   <anchor x="0" y="0" name="bottomDots"/>
   <outline>
     <contour>
       <point x="0" y="0" type="line"/>
       <point x="128" y="0"/>
-      <point x="192" y="76"/>
-      <point x="192" y="204" type="curve" smooth="yes"/>
+      <point x="192" y="72"/>
+      <point x="192" y="200" type="curve" smooth="yes"/>
       <point x="192" y="416" type="line"/>
       <point x="176" y="432" type="line"/>
       <point x="112" y="432" type="line"/>
       <point x="96" y="416" type="line"/>
-      <point x="96" y="204" type="line" smooth="yes"/>
-      <point x="96" y="140"/>
-      <point x="64" y="108"/>
-      <point x="0" y="108" type="curve"/>
-      <point x="-16" y="92" type="line"/>
+      <point x="96" y="200" type="line" smooth="yes"/>
+      <point x="96" y="136"/>
+      <point x="64" y="104"/>
+      <point x="0" y="104" type="curve"/>
+      <point x="-16" y="88" type="line"/>
       <point x="-16" y="16" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-06-22 06:38:52 +0000</string>
+      <string>2025-06-29 02:27:40 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -120,6 +120,10 @@
     <array>
       <string>quotesingle</string>
     </array>
+    <key>public.kern1.reh-ar.fina</key>
+    <array>
+      <string>reh-ar.fina</string>
+    </array>
     <key>public.kern1.s</key>
     <array>
       <string>s</string>
@@ -224,6 +228,11 @@
     <key>public.kern2.f</key>
     <array>
       <string>f</string>
+    </array>
+    <key>public.kern2.feh-ar.init</key>
+    <array>
+      <string>feh-ar.init</string>
+      <string>fehDotless-ar.init</string>
     </array>
     <key>public.kern2.five</key>
     <array>

@@ -160,6 +160,11 @@
       <key>public.kern2.s</key>
       <integer>-104</integer>
     </dict>
+    <key>public.kern1.reh-ar.fina</key>
+    <dict>
+      <key>public.kern2.feh-ar.init</key>
+      <integer>-288</integer>
+    </dict>
     <key>public.kern1.s</key>
     <dict>
       <key>public.kern2.o</key>
