@@ -4,9 +4,17 @@
   <dict>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>أشهد يا إلهي /dotbelow-ar ب/alef-ar.fina نك /hah-ar.init ل/fehDotless-ar.medi قتني لعر/fehDotless-ar.init فانك وع/dotbelow-ar بادتك أشهد في هذا احين بعجي وقوتك وضع
+      <string>اأشهد يا إلهي /dotbelow-ar/behDotless-ar.init ب/alef-ar.fina نك /hah-ar.init ل/fehDotless-ar.medi قتني لعر/fehDotless-ar.init فانك وع/dotbelow-ar بادتك أشهد في هذا احين بعجي وقوتك وضع
 
 خلقتني خل/fehDotless-ar.medi/fehDotless-ar.medi قتني </string>
+      <string>—C. A. R. Hoare</string>
+      <string>Your kids will grow up thinking with and through AI. HThe architecture we build today determines whether they think freely, or through corporate and government filters.
+
+When AI systems can influence our thoughts, shape our decisions, and access our most intimate conversations, the architecture of that AI matters.” </string>
+      <string>/E010</string>
+      <string>/E021</string>
+      <string>A</string>
+      <string>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwx1234567890</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3343</string>
@@ -579,7 +587,6 @@
       <string>decimalseparator-ar</string>
       <string>thousandseparator-ar</string>
       <string>aacute</string>
-      <string>yabaha</string>
       <string>heh-ar.medi.001</string>
       <string>zero</string>
       <string>one</string>
@@ -610,6 +617,8 @@
       <string>endash</string>
       <string>emdash</string>
       <string>underscore</string>
+      <string>parenleft</string>
+      <string>parenright</string>
       <string>quotesinglbase</string>
       <string>quotedblleft</string>
       <string>quotedblright</string>
@@ -618,7 +627,9 @@
       <string>quotedbl</string>
       <string>quotesingle</string>
       <string>ampersand</string>
+      <string>dollar</string>
       <string>minus</string>
+      <string>percent</string>
       <string>acutecomb</string>
       <string>acute</string>
       <string>apostrophemod</string>
@@ -644,10 +655,8 @@
       <string>F001</string>
       <string>F002</string>
       <string>F003</string>
-      <string>parenleft</string>
-      <string>parenright</string>
-      <string>dollar</string>
-      <string>percent</string>
+      <string>E021</string>
+      <string>yabaha</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

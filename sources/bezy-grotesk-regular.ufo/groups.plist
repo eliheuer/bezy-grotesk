@@ -6,6 +6,10 @@
     <array>
       <string>A</string>
     </array>
+    <key>public.kern1.C</key>
+    <array>
+      <string>C</string>
+    </array>
     <key>public.kern1.F</key>
     <array>
       <string>F</string>
@@ -25,6 +29,10 @@
     <key>public.kern1.V</key>
     <array>
       <string>V</string>
+    </array>
+    <key>public.kern1.Y</key>
+    <array>
+      <string>Y</string>
     </array>
     <key>public.kern1.Z</key>
     <array>
@@ -191,6 +199,7 @@
     </array>
     <key>public.kern2.O</key>
     <array>
+      <string>C</string>
       <string>G</string>
     </array>
     <key>public.kern2.T</key>
@@ -200,6 +209,10 @@
     <key>public.kern2.V</key>
     <array>
       <string>V</string>
+    </array>
+    <key>public.kern2.Y</key>
+    <array>
+      <string>Y</string>
     </array>
     <key>public.kern2.Z</key>
     <array>

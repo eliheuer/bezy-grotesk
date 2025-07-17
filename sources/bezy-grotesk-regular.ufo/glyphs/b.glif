@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="624"/>
+  <advance width="616"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -46,7 +46,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-04 01:14:46 +0000</string>
+      <string>2025-07-01 22:09:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>o</string>
     </dict>

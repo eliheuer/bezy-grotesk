@@ -45,6 +45,11 @@
       <key>public.kern2.t</key>
       <integer>-32</integer>
     </dict>
+    <key>public.kern1.C</key>
+    <dict>
+      <key>public.kern2.period</key>
+      <integer>-96</integer>
+    </dict>
     <key>public.kern1.F</key>
     <dict>
       <key>public.kern2.o</key>
@@ -66,6 +71,11 @@
       <integer>-128</integer>
       <key>public.kern2.a</key>
       <integer>-72</integer>
+    </dict>
+    <key>public.kern1.Y</key>
+    <dict>
+      <key>public.kern2.o</key>
+      <integer>-112</integer>
     </dict>
     <key>public.kern1.Z</key>
     <dict>

@@ -1,3 +1,7 @@
+/fonts
+/images
+Rubik-Black.ufo/
+test.ufo/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
