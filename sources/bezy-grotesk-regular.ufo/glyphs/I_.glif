@@ -17,7 +17,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-03 04:54:16 +0000</string>
+      <string>2025-07-19 06:51:12 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
     </dict>
   </lib>
 </glyph>

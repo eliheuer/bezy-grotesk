@@ -7,10 +7,10 @@
       <point x="96" y="0" type="line"/>
       <point x="624" y="0" type="line"/>
       <point x="640" y="16" type="line"/>
-      <point x="640" y="76" type="line"/>
-      <point x="624" y="92" type="line"/>
-      <point x="192" y="92" type="line"/>
-      <point x="184" y="100" type="line"/>
+      <point x="640" y="80" type="line"/>
+      <point x="624" y="96" type="line"/>
+      <point x="192" y="96" type="line"/>
+      <point x="184" y="104" type="line"/>
       <point x="184" y="342" type="line"/>
       <point x="192" y="350" type="line"/>
       <point x="576" y="350" type="line"/>
@@ -19,10 +19,10 @@
       <point x="576" y="438" type="line"/>
       <point x="192" y="438" type="line"/>
       <point x="184" y="446" type="line"/>
-      <point x="184" y="670" type="line"/>
-      <point x="192" y="678" type="line"/>
-      <point x="608" y="678" type="line"/>
-      <point x="624" y="694" type="line"/>
+      <point x="184" y="668" type="line"/>
+      <point x="192" y="676" type="line"/>
+      <point x="608" y="676" type="line"/>
+      <point x="624" y="692" type="line"/>
       <point x="624" y="752" type="line"/>
       <point x="608" y="768" type="line"/>
       <point x="96" y="768" type="line"/>
@@ -33,7 +33,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2025-05-07 04:12:28 +0000</string>
+      <string>2025-07-19 05:22:12 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
     </dict>

@@ -13,8 +13,10 @@
 When AI systems can influence our thoughts, shape our decisions, and access our most intimate conversations, the architecture of that AI matters.” </string>
       <string>/E010</string>
       <string>/E021</string>
-      <string>A</string>
-      <string>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwx1234567890</string>
+      <string>nooonnon onno non on onon o Hono HOHOH ononno nono noon Hoon Ohno OOOO HHHH nnnn oooo HOHOHOH ononononHHH</string>
+      <string> ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwx1234567890</string>
+      <string>/threedotsupabove-ar/sheen-ar.init</string>
+      <string>/threedotsupabove-ar/sheen-ar.init</string>
     </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3343</string>
@@ -27,7 +29,7 @@ When AI systems can influence our thoughts, shape our decisions, and access our 
         <key>m001</key>
         <dict>
           <key>HH</key>
-          <string>88</string>
+          <string>96</string>
           <key>HV</key>
           <string>104</string>
           <key>OH</key>
@@ -37,13 +39,13 @@ When AI systems can influence our thoughts, shape our decisions, and access our 
           <key>nV</key>
           <string>96</string>
           <key>nd</key>
-          <string>70</string>
-          <key>oH</key>
           <string>80</string>
+          <key>oH</key>
+          <string>88</string>
           <key>oV</key>
           <string>96</string>
           <key>tH</key>
-          <string>80</string>
+          <string>96</string>
         </dict>
       </dict>
     </dict>
