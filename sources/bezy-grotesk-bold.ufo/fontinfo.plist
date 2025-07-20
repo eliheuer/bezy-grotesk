@@ -15,17 +15,17 @@
     <key>openTypeHeadCreated</key>
     <string>2024/10/25 01:05:46</string>
     <key>openTypeNamePreferredSubfamilyName</key>
-    <string>Regular</string>
+    <string>Bold</string>
     <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
+    <integer>700</integer>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>postscriptFontName</key>
-    <string>BezyGrotesk-Regular</string>
+    <string>BezyGrotesk-Bold</string>
     <key>styleMapStyleName</key>
-    <string>regular</string>
+    <string>bold</string>
     <key>styleName</key>
-    <string>Regular</string>
+    <string>Bold</string>
     <key>unitsPerEm</key>
     <integer>1024</integer>
     <key>versionMajor</key>
