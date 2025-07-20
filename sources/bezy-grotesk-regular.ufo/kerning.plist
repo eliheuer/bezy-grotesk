@@ -184,6 +184,16 @@
       <key>public.kern2.quotedblright</key>
       <integer>-48</integer>
     </dict>
+    <key>public.kern1.seven</key>
+    <dict>
+      <key>public.kern2.eight</key>
+      <integer>-64</integer>
+    </dict>
+    <key>public.kern1.six</key>
+    <dict>
+      <key>public.kern2.seven</key>
+      <integer>-32</integer>
+    </dict>
     <key>public.kern1.slash</key>
     <dict>
       <key>public.kern2.o</key>
